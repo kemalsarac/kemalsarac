@@ -1,7 +1,6 @@
 # 💫 About Me:
-I'm currently developing software in areas related to autonomous vehicles and robots.I develop software on Arduino,gazebo and ardupilot and do test with the Nvidia Jetson Xavier and cube orange, which I have,I became a finalist in the fav and agricultural unmanned land vehicle competitions fighting in the teknofest competition.<br>I'm on this platform to improve myself and add added value to myself and you.
-
-
+Merhaba! Ben Doğuş Üniversitesi 3. sınıf Yazılım Mühendisliği öğrencisiyim.Otomasyon ve robotik alanlarına olan ilgim sayesinde, Teknofest yarışması kapsamında ben ve ekibim iki farklı robot geliştirdik: tarımsal insansız kara aracı ve savaşan insansız hava aracı. Bu projeler beni daha da geliştirdi ve aynı zamanda ekibimle birlikte çalışmanın ne kadar önemli olduğunu öğrendim.
+Okul hayatım boyunca Assembly, C++, Python ve Java gibi dilleri öğrendim, ancak projelerim sayesinde özellikle C++ ve Python üzerinde kendimi daha fazla geliştirdim. Ayrıca, boş zamanlarımda Unity ile oyun tasarımı ve programlaması yapıyorum.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kemallsaracc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kemalsarac) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kemalsaracc) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kemallsaracc) 
 
