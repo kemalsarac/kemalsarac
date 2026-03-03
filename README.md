@@ -1,6 +1,6 @@
 # 💫 About Me:
-Merhaba! Ben Doğuş Üniversitesi 4. sınıf Yazılım Mühendisliği öğrencisiyim.Otomasyon ve uygulama yazılımı alanlarına olan ilgim sayesinde, Teknofest yarışması kapsamında ben ve ekibim iki farklı robot geliştirdik ve bir takım uygulamalar geliştirdik . Bu projeler beni daha da geliştirdi ve aynı zamanda ekibimle birlikte çalışmanın ne kadar önemli olduğunu öğrendim.
-Okul hayatım boyunca Flutter, C++, Python ve Java gibi dilleri öğrendim, ancak projelerim sayesinde özellikle Flutter ve Python üzerinde kendimi daha fazla geliştirdim. Ayrıca, boş zamanlarımda Unity ile oyun tasarımı ve programlaması yapıyorum.
+Merhaba! Ana odağım mobil ve masaüstü uygulama geliştirme. Flutter ve Dart ile 2 yıl profesyonel deneyimim oldu; şu anda ise React Native, TypeScript ve Node.js üzerinde kendimi geliştirmeye devam ediyorum.
+Gerçek dünya projelerinde kullanıcı odaklı, performanslı ve ölçeklenebilir uygulamalar geliştirmeyi seviyorum. Mobil ve masaüstü uygulama geliştirme alanında sürekli öğrenmeye ve yeni teknolojileri projelerimde kullanmaya odaklanıyorum.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kemallsaracc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kemalsarac) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kemalsaracc) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kemallsaracc) 
 
