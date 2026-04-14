@@ -14,9 +14,10 @@ I build SaaS dashboard apps, scheduling systems and AI-powered tools.
 - Dashboard analytics
 
 📸 Screenshot:
-<img width="1440" height="3120" alt="YönetimX" src="https://github.com/user-attachments/assets/4a343695-ffbb-486b-9367-5ee73a73c982" />
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a343695-ffbb-486b-9367-5ee73a73c982" width="250"/>
+  <img src="https://github.com/user-attachments/assets/4a343695-ffbb-486b-9367-5ee73a73c982" width="250"/>
+</p>
 ---
 
 ### 🤖 IdeaPilot – AI Planning App
@@ -25,9 +26,9 @@ I build SaaS dashboard apps, scheduling systems and AI-powered tools.
 - Dashboard UI
 
 📸 Screenshot:
-
-<img width="1280" height="2856" alt="IdeaPilot" src="https://github.com/user-attachments/assets/96777aaf-504e-4e26-a150-50fa03328f66" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96777aaf-504e-4e26-a150-50fa03328f66" width="250"/>
+</p>
 
 ---
 
@@ -38,9 +39,9 @@ I build SaaS dashboard apps, scheduling systems and AI-powered tools.
 
 📸 Screenshot:
 
-<img width="1584" height="993" alt="smartworkspace" src="https://github.com/user-attachments/assets/1b98fca9-6fbe-4cb9-a9c2-3da9e1758c54" />
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1b98fca9-6fbe-4cb9-a9c2-3da9e1758c54" width="500"/>
+</p>
 ---
 
 ## 🧠 What I Focus On
