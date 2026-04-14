@@ -14,7 +14,7 @@ I build SaaS dashboard apps, scheduling systems and AI-powered tools.
 - Dashboard analytics
 
 📸 Screenshot:
-<img width="1440" height="3120" alt="YönetimX" src="https://github.com/user-attachments/assets/4a343695-ffbb-486b-9367-5ee73a73c982" /><img width="1280" height="2856" alt="IdeaPilot" src="https://github.com/user-attachments/assets/04b6e94d-c082-4057-b2ee-20f97d9284d8" /><img width="1440" height="3120" alt="YönetimX" src="https://github.com/user-attachments/assets/c52953bc-a8b7-41f9-88d2-6b9479d176a2" />
+<img width="1440" height="3120" alt="YönetimX" src="https://github.com/user-attachments/assets/4a343695-ffbb-486b-9367-5ee73a73c982" />
 
 
 ---
