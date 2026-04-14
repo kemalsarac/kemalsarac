@@ -16,7 +16,6 @@ I build SaaS dashboard apps, scheduling systems and AI-powered tools.
 📸 Screenshot:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4a343695-ffbb-486b-9367-5ee73a73c982" width="250"/>
-  <img src="https://github.com/user-attachments/assets/4a343695-ffbb-486b-9367-5ee73a73c982" width="250"/>
 </p>
 ---
 
